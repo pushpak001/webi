@@ -3,7 +3,13 @@ body, h1, h2, h3, p, ul {
     margin: 0;
     padding: 0;
 }
-
+.pho{
+    max-width: 400px;
+   
+}
+.btn{
+    clear: red;
+}
 .container {
     max-width: 400px;
     text-align: center;
@@ -42,7 +48,7 @@ h3 {
 }
 
 ul {
-    list-style: disc;
+    list-style: ;
     margin-left: 20px;
     margin-bottom: 15px;
 }
